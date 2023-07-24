@@ -1,0 +1,1 @@
+This repository is a compilation of code developed for my undergraduate thesis investigating the MFPT. The numerical component of the project developed here served as an interesting comparison with the analytical solutions investigated in my thesis.
